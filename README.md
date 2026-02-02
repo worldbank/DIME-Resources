@@ -1,4 +1,4 @@
-# DIME Resources
+# DIME Resources (Archived)
 
 This is a deprecated repository for DIME Analytics/DIME resources. It is kept not break links shared in the past. 
 
